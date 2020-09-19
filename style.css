@@ -1,0 +1,25 @@
+h1{
+    font-size: xx-large;
+    font-family: inherit;
+    color: darkgreen;
+    text-align: center;
+}
+
+body{
+ background-color: aquamarine;   
+}
+
+h2 {
+    font-size: x-large;
+    font-family: inherit;
+    font-style: inherit;
+    color: olive;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    color: darkolivegreen;
+}
+
+
